@@ -17,15 +17,14 @@
           </div>
           <div class="pagination">
               {% if page.next %}
-                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">Newer Post</a>
+                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">Sonraki Kitap</a>
               {% endif %}
               {% if page.previous %}
-                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">Older Post</a>
+                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">Önceki Kitap</a>
               {% endif %}
           </div>
         </div>
     </div>
 </div>
 
-{% include disqus-comments.html %}
 {% include footer.html %}
