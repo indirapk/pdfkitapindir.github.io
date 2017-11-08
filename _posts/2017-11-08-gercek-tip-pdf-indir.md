@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Vivamus porttitor porta tortor"
-date: 2012-05-22 16:25:06 -0700
-comments: true
+title: "Gerçek Tıp PDF İndir - Dr. Aidin Salih"
+date: 2017-11-08 16:25:06 -0700
+comments: false
 ---
 
 Vivamus porttitor porta tortor at ullamcorper. Proin vel nisi magna. Vivamus vel velit laoreet, malesuada nunc nec, pulvinar velit. Vivamus sollicitudin ex quam, sit amet aliquet velit euismod in. Etiam rutrum augue orci, sed euismod risus vehicula eu. Proin quis velit mattis, sodales erat vitae, condimentum nulla. Vestibulum vitae imperdiet ligula. Etiam venenatis ultrices varius.
