@@ -9,5 +9,5 @@ comments: true
 <p>Kitap PDF türündedir. Dolayısıyla hem mobil hem de PC cihazlarda sorunsuz çalıştırabilirsiniz. Sadece bir PDF okuyucu yazılım sizin için yeterli olacaktır. Kitap hakkındaki yorumlarınızı yorum panelinden paylaşaiblirsiniz.</p>
 
 <hr>
-**Yorumlar**<br/>
+**Yorumlar**<br/><br/>
 Henüz yorum yok.
