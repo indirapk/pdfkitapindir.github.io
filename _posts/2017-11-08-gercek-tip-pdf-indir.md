@@ -9,5 +9,5 @@ comments: false
 <p>Eserde çok köklü ve eski tedavi yöntemlerinden bahsedilmektedir. Ayrıca İslami bir takım tedavi yöntemleri de eserde geçmektedir. Genel olarak açlık tedavisi olarak meşhur olan tedavi yönteminden bahsedilmektedir. Dr. Aidin Salih de bu tedavi yöntemiyle tanınmaktadır. Bunun dışında hacamat ve sülük tedavileri de kitapta sıkça konu edilmektedir. Birçok hastalığın sebebi olarak günümüzdeki doğal olmayan şeyler gösterilmektedir. Ayrıca yanlış beslenme ve sözde doktorların yanlış yönlendirmesiyle de olabileceği eserde geçmektedir.</p>
 
 <hr>
-### Yorumlar
-**Aydın:** Harika bitkisel tedaviler bulabileceğiniz bir kitap. Güzel şeyler var tavsiye ederim. Tedavi uygulamalarını önce güzelce araştırmak şartıyla.
+**Yorumlar**<br/><br/>
+*Aydın:* Harika bitkisel tedaviler bulabileceğiniz bir kitap. Güzel şeyler var tavsiye ederim. Tedavi uygulamalarını önce güzelce araştırmak şartıyla.
