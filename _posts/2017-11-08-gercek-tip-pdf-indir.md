@@ -10,4 +10,4 @@ comments: false
 
 <hr>
 **Yorumlar**<br/><br/>
-*Aydın:* Harika bitkisel tedaviler bulabileceğiniz bir kitap. Güzel şeyler var tavsiye ederim. Tedavi uygulamalarını önce güzelce araştırmak şartıyla.
+Aydın: *Harika bitkisel tedaviler bulabileceğiniz bir kitap. Güzel şeyler var tavsiye ederim. Tedavi uygulamalarını önce güzelce araştırmak şartıyla.*
