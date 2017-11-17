@@ -2,9 +2,6 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-3">
-            {% include sidebar.html %}
-        </div>
         <div class="col-md-9">
           <div class="article">
             <div class="well">
@@ -23,6 +20,9 @@
                 <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">Önceki Kitap</a>
               {% endif %}
           </div>
+        </div>
+        <div class="col-md-3">
+            {% include sidebar.html %}
         </div>
     </div>
 </div>
