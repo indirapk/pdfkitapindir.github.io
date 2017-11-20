@@ -1,7 +1,7 @@
 <div class="sidebar well">
     <strong>Son Eklenenler</strong>
     <ul>
-        {% for post in site.posts limit:5 %}
+        {% for post in site.posts limit:15 %}
           <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
