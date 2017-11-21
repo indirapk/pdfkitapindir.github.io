@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jose Mauro de Vasconcelos – Şeker Portakalı PDF İndir"
+title: "Jose Mauro de Vasconcelos - Şeker Portakalı PDF İndir"
 date: 2017-11-14 13:25:06 -0700
 comments: false
 ---
