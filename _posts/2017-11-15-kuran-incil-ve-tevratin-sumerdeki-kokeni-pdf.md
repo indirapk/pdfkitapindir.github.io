@@ -7,7 +7,7 @@ comments: false
 
 <p><strong>Kuran İncil ve Tevratın Sümerdeki Kökeni PDF</strong> eserinde ateistlerin ne kadar cahil, aklını kullanamayan beyinsizler topluluğu olduğunu rahatlıkla görebiliyoruz. <strong>Muazzez İlmiye Çığ</strong> isimli mahluk tarafından uydurulan bu eserin <strong>PDF indir</strong> seçeneği yazı sonunda bulunmaktadır. </p>
 
-<img src="/images/kuran-incil-ve-tevratin-sumerdeki-kokeni-muazzez-ilmiye-cig.jpg"/>
+<center><img src="/images/kuran-incil-ve-tevratin-sumerdeki-kokeni-muazzez-ilmiye-cig.jpg" height="150" alt="Kuran İncil ve Tevratın Sümerdeki Kökeni"/></center>
 
 <p>
 Yaklaşık 103 yıl yaşamış olmasına rağmen hala beynini kullanmada hiçbir adım atamamış bir yobazın saçmalamasıdır. Bilindiği üzere Kuran, İncil ve Tevrat kitaplarının önceki kavimlerden alınan masallar olduğuna inanan bir takım beyinsizler hala bulunmaktadır. Bu durum Kuran'da da bildirilmiştir. Ve kıyamete kadar da bu beyinsiz topluluk maalesef bulunacaktır. İşte bu beyinsizlerin günümüzde bulunanlarından bazıları da adı geçen mahluk ve benzerleridir.</p>
