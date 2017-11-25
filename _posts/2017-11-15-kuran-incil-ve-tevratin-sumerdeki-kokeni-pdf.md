@@ -26,11 +26,11 @@ Bu iki yöntem birbirine tamamen zıttır.</p>
 <p>
 Yöntemlere gelecek olursak her iki metodda vurgulanan iddialar beyinsiz ateistlerin haksız olduğunu kendi ağızlarıyla itiraf etmesidir. 
 Aklını kullanmayan ateistlerin bu iddialar hakkındaki yorumu şöyledir:<br/><br/>
-<span style="color:red;">1. Semavi kitaplarda bahsedilenler Sümer tabletlerinde geçiyor. Demek ki dinler birbirinin kopyası.</span><br/>
+<span style="color:red;">1. Semavi kitaplarda bahsedilenler Sümer tabletlerinde geçiyor. Demek ki dinler birbirinin kopyası.</span><br/><br/>
 
 <span style="color:green;">Oysa akıllarını kullansalardı Semavi dinlerin kitaplarında bahsedilenlerin önceki kavimler tarafından da anlatılması bunların gerçek olduğuna delildir. Yani bugün bizim şahit olduğumuz gibi önceki kavimlerin de şahit olmasıdır.</span><br/><br/>
 
-<span style="color:red;">2. Semavi dinlerde bahsedilen Tevhid inancı önceki dinlerde yok bu ortak bir inanç değil demek ki dinlerin tek bir kökeni yok.</span><br/>
+<span style="color:red;">2. Semavi dinlerde bahsedilen Tevhid inancı önceki dinlerde yok bu ortak bir inanç değil demek ki dinlerin tek bir kökeni yok.</span><br/><br/>
 
 <span style="color:green;">Yine çok az akledebilselerdi dinin aslında tek din olduğunu ve kendileri gibi sefihlerin tek hak din olan Tevhid dinini değiştirip yeryüzünde fesadı ve şirki yaydığını görebilirlerdi.</span></p>
 
