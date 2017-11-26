@@ -6,6 +6,7 @@ comments: false
 ---
 
 <p><strong>Cemal Süreya - Sevda Sözleri PDF İndir</strong> arayanlar için oluşturduğumuz başlıktaki e-kitap butonlarını kullanabilirsiniz. Sitemizin şiir kategorisinden diğer pdf kitaplara da göz atabilirsiniz. Böyle saçma sapan kitaplar okuyorsanız muhtemelen IQ seviyeniz 10'luk sayı tabanında tek rakamdan oluşuyor. En azından sitemize ulaşabilecek seviyedesiniz.</p>
+
 {% include adg %}
 <p>
 Aradığınız kitap Türkçe dilindedir; Cemal Süreya isimli sapığın saçma sapan sözlerinden oluşmaktadır. Okuyan aptallara hiçbir şey katmadığı gibi iyice aptallaştırmıştır. Okumanızı tavsiye etmiyoruz.  
