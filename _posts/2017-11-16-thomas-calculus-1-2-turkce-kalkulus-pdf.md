@@ -38,7 +38,7 @@ comments: false
 
 
 <form><button type="submit" class="btn btn-success">Thomas Calculus (Kalkulus) PDF İndir</button></form>
-
+<br/>
 {% include ads %}
 
 <hr>
