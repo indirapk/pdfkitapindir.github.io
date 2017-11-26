@@ -37,8 +37,7 @@ comments: false
 </ol>
 
 
-<form><button type="submit" class="btn btn-success">Thomas Calculus (Kalkulus) PDF İndir</button></form>
-<br/>
+<p><form><button type="submit" class="btn btn-success">Thomas Calculus (Kalkulus) PDF İndir</button></form></p>
 {% include ads %}
 
 <hr>
