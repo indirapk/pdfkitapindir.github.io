@@ -6,6 +6,7 @@ comments: false
 ---
 
 <p><strong>Kuran İncil ve Tevratın Sümerdeki Kökeni PDF</strong> eserinde ateistlerin ne kadar cahil, aklını kullanamayan beyinsizler topluluğu olduğunu rahatlıkla görebiliyoruz. <strong>Muazzez İlmiye Çığ</strong> isimli mahluk tarafından uydurulan bu eserin <strong>PDF indir</strong> seçeneği yazı sonunda bulunmaktadır. </p>
+
 {% include adg %}
 <center><img src="/images/kuran-incil-ve-tevratin-sumerdeki-kokeni-muazzez-ilmiye-cig.jpg" height="150" alt="Kuran İncil ve Tevratın Sümerdeki Kökeni"/></center>
 {% include ad %}
