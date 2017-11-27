@@ -15,6 +15,8 @@ comments: false
 
 <p>Arşivlerimizde PDF Kitaplar kategorize edilmiş bir şekilde listelenir. Öncelikle aradığınız kitap hangi dildeyse o dizine girin. Daha sonra kategori ve alt kategori seçimi yapın. Ya da arşivi kendi hesabınıza klonladıktan sonra arama kutusunu kullanın ve doğrudan kitap ismini yazın. Böylelikle aradığınız e-kitap dosyasına daha çabuk ulaşabilirsiniz.</p>
 
+***Örnek Dizin: Türkçe > Tıp > Bitkisel > Aidin Salih - Gerçek Tıp Yitik Şifanın İzinde***
+
 <p><a href="#"><button type="submit" class="btn btn-warning">PDF E-KİTAP ARŞİVİ (YANDEX DİSK)</button></a></p>
 <p><a href="#"><button type="submit" class="btn btn-primary">PDF E-KİTAP ARŞİVİ (GOOGLE DRİVE)</button></a></p>
 {% include ads %}
