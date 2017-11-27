@@ -9,7 +9,7 @@ comments: false
 
 {% include adg %}
 
-<center><div style="width:100%;"><img src="/images/pdf-kitap-indir.jpg" alt="PDF Kitap İndir"/></div></center>
+<center><img src="/images/pdf-kitap-indir.jpg" alt="PDF Kitap İndir" style="max-width:100%;" /></center>
 
 {% include ad %}
 
