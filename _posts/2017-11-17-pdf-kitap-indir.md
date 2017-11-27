@@ -23,4 +23,4 @@ comments: false
 
 <hr>
 **Yorumlar**<br/><br/>
-Red: *Yıllar oldu günlük hayatımda hala bir işe yaramış değil.*
+Doktor: *Harika bir arşiv olmuş. Hazırlayanların ellerine sağlık. Siteniz çok başarılı teşekkür ediyorum.*
