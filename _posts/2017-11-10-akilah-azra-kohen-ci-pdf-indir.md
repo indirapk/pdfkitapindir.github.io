@@ -10,7 +10,7 @@ title: "Akilah Azra Kohen - Çi PDF İndir"
 Aradığınız kitap Türkçe dilindedir; 228 sayfadan oluşmaktadır. Aşağıdaki butonları kullanarak serinin diğer PDF Kitap konularına da ulaşabilirsiniz. Yorum panelinden yorumlarınızı eklemeyi unutmayın.
 </p>
 {% include ad %}
-<form><button type="submit" class="btn btn-success">Çi PDF İndir</button></form><br/>
+<a href="http://pdfekitapindir.club/pdf-kitap-indir"><button type="submit" class="btn btn-success">Çi PDF İndir</button></a><br/>
 <a href="http://pdfekitapindir.club/akilah-azra-kohen-fi-pdf-indir"><button class="btn btn-danger">Fi PDF İndir</button></a><br/>
 {% include ads %}
 <hr>
