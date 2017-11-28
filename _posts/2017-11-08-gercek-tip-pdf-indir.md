@@ -12,7 +12,7 @@ comments: false
 {% include adg %}
 <p>Eserde çok köklü ve eski tedavi yöntemlerinden bahsedilmektedir. Genel olarak <strong>açlık tedavisi</strong> olarak meşhur olan tedavi yönteminden bahsedilmektedir. Dr. Aidin Salih de bu tedavi yöntemiyle tanınmaktadır. Bunun dışında <strong>hacamat</strong> ve sülük tedavileri de kitapta sıkça konu edilmektedir. Birçok hastalığın sebebi olarak günümüzdeki doğal olmayan şeyler gösterilmektedir. Ayrıca yanlış beslenme ve sözde doktorların yanlış yönlendirmesiyle de olabileceği eserde geçmektedir.</p>
 {% include ad %}
-<form><button type="submit" class="btn btn-success">Gerçek Tıp PDF İndir</button></form><br/>
+<a href="http://pdfekitapindir.club/pdf-kitap-indir"><button type="submit" class="btn btn-success">Gerçek Tıp PDF İndir</button></a><br/>
 {% include ads %}
 <hr>
 **Yorumlar**<br/><br/>
