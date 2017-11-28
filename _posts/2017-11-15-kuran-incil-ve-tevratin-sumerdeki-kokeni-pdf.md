@@ -38,7 +38,7 @@ Aklını kullanmayan ateistlerin bu iddialar hakkındaki yorumu şöyledir:<br/>
 Bu saçmalık dolu kitap hakkında daha fazla yorum yapmaya gerek yok. "Benim zamanım kıymetli değil saçmalıkları okumayı çok severim" diyorsanız adı geçen çelişki ve iftira dolu eseri okuyabilirsiniz.
 </p>
 
-<form><button type="submit" class="btn btn-success">Kuran İncil ve Tevratın Sümerdeki Kökeni PDF İndir</button></form><br/>
+<a href="http://pdfekitapindir.club/pdf-kitap-indir"><button type="submit" class="btn btn-success">PDF İndir</button></a><br/>
 
 <hr>
 **Yorumlar**<br/><br/>
