@@ -10,7 +10,7 @@ title: "Kahraman Tazeoğlu - Aşkla Kal PDF İndir"
 Aradığınız kitap Türkçe dilindedir; toplamda 312 sayfa saçmalamadan oluşmaktadır. İlk baskısı 2015 yılında gerçekleşmiştir. Hala bu saçmalıkları okuyanlar mevcuttur. Böylesine insana hiçbir faydası olmayan ve sadece şarlatanların geçim kaynağı olan saçmalıkların okunmasını kesinlikle tavsiye etmiyoruz.
 </p>
 {% include ad %}
-<form><button type="submit" class="btn btn-success">Aşkla Kal PDF İndir</button></form><br/>
+<a href="http://pdfekitapindir.club/pdf-kitap-indir"><button type="submit" class="btn btn-success">PDF İndir</button></a><br/>
 {% include ads %}
 <hr>
 **Yorumlar**<br/><br/>
