@@ -12,7 +12,7 @@ comments: false
 E-Kitap sitemizde binlerce ücretsiz kitap bulabilirsiniz. Kitaplara ulaşmak için arşivimizi ziyaret edin. Arşiv konumuza gitmek için aşağıdaki butonu kullanabilirsiniz.
 </p>
 {% include ad %}
-<form><button type="submit" class="btn btn-success">Fi PDF İndir</button></form> <br/>
+<a href="http://pdfekitapindir.club/pdf-kitap-indir"><button type="submit" class="btn btn-success">Fi PDF İndir</button></a><br/>
 <a href="http://pdfekitapindir.club/akilah-azra-kohen-ci-pdf-indir"><button class="btn btn-danger">Çi PDF İndir</button></a><br/>
 {% include ads %}
 <hr>
