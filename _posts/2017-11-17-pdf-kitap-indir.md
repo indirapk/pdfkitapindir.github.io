@@ -17,7 +17,7 @@ comments: false
 
 ***Örnek Dizin: Türkçe > Tıp > Bitkisel > Aidin Salih - Gerçek Tıp Yitik Şifanın İzinde***
 
-<p><a href="#"><button type="submit" class="btn btn-warning">PDF E-KİTAP ARŞİVİ (YANDEX DİSK)</button></a></p>
+<p><a href="https://yadi.sk/d/eUVTSuIW3Q8k3M" rel="nofollow"><button type="submit" class="btn btn-warning">PDF E-KİTAP ARŞİVİ (YANDEX DİSK)</button></a></p>
 <p><a href="#"><button type="submit" class="btn btn-primary">PDF E-KİTAP ARŞİVİ (GOOGLE DRİVE)</button></a></p>
 {% include ads %}
 
