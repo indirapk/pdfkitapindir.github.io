@@ -12,7 +12,7 @@ comments: false
 Mobil uygulamamızı indirip aradığınız PDF Kitap konularına daha kolay ve hızlı bir şekilde ulaşabilirsiniz. Uygulamamız şimdilik sadece Android cihazlarda çalışmaktadır. IOS kullanıcıları bu güzel hizmet için biraz daha bekleyecek. Diğer <strong>Oğuz Atay PDF</strong> kitapları için sitemizde arama yapabilirsiniz.
 </p>
 {% include ad %}
-<form><button type="submit" class="btn btn-success">Oğuz Atay Tutunamayanlar PDF İndir</button></form>
+<a href="http://pdfekitapindir.club/pdf-kitap-indir"><button type="submit" class="btn btn-success">PDF İndir</button></a><br/>
 <br/>
 {% include ad %}
 <hr>
