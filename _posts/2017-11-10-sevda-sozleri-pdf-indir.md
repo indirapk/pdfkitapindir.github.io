@@ -12,7 +12,7 @@ comments: false
 Aradığınız kitap Türkçe dilindedir; Cemal Süreya isimli sapığın saçma sapan sözlerinden oluşmaktadır. Okuyan aptallara hiçbir şey katmadığı gibi iyice aptallaştırmıştır. Okumanızı tavsiye etmiyoruz.  
 </p>
 {% include ad %}
-<form><button type="submit" class="btn btn-success">Sevda Sözleri PDF İndir</button></form><br/>
+<a href="http://pdfekitapindir.club/pdf-kitap-indir"><button type="submit" class="btn btn-success">PDF İndir</button></a><br/>
 {% include ads %}
 <hr>
 **Yorumlar**<br/><br/>
