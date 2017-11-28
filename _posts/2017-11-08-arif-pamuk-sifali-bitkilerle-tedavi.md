@@ -10,7 +10,7 @@ comments: true
 {% include adg %}
 <p>Kitap PDF türündedir. Dolayısıyla hem mobil hem de PC cihazlarda sorunsuz çalıştırabilirsiniz. Sadece bir PDF okuyucu yazılım sizin için yeterli olacaktır. Kitap hakkındaki yorumlarınızı yorum panelinden paylaşaiblirsiniz.</p>
 {% include ad %}
-<form><button type="submit" class="btn btn-success">Şifalı Bitkilerle Tedavi PDF İndir</button></form><br/>
+<a href="http://pdfekitapindir.club/pdf-kitap-indir"><button type="submit" class="btn btn-success">PDF İndir</button></a><br/>
 {% include ads %}
 <hr>
 **Yorumlar**<br/><br/>
