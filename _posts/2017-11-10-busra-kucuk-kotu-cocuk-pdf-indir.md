@@ -12,7 +12,7 @@ comments: false
 Aradığınız kitap Türkçe dilindedir; sayfa sayısı 511, baskı yılı 2015 ve ilginç bir şekilde en çok arananlar listesinde ilk sıralarda yer almaktadır. Kitap hakkındaki yorumlar ise kitabın tam bir rezalet olduğu yönündedir.
 </p>
 {% include ad %}
-<form><button type="submit" class="btn btn-success">Kötü Çocuk PDF İndir</button></form><br/>
+<a href="http://pdfekitapindir.club/pdf-kitap-indir"><button type="submit" class="btn btn-success">PDF İndir</button></a><br/>
 {% include ads %}
 <hr>
 **Yorumlar**<br/><br/>
