@@ -10,7 +10,7 @@ PDF Kitap İndir butonunu kullanarak indirme sayfasına gidebilirsiniz.
 
 {% include adg %}
 <p>
-  İndirme işlemi ile ilgili:<br/>
+  Kitap İndirme işlemi ile ilgili:<br/>
 Aradığınız kitap Türkçe dilindedir; 228 sayfadan oluşmaktadır. Aşağıdaki butonları kullanarak serinin diğer PDF Kitap konularına da ulaşabilirsiniz. Yorum panelinden yorumlarınızı eklemeyi unutmayın.
 </p>
 {% include ad %}
