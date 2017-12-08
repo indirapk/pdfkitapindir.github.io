@@ -9,7 +9,7 @@ comments: false
 
 PDF Kitap İndir butonunu kullanarak indirme sayfasına gidebilirsiniz.
 
-{% include adg %}
+{% include ad %}
 
 <center><img src="/images/thomas-calculus-kalkulus-pdf.jpg" alt="Thomas Calculus Kalkulus" /></center>
 
