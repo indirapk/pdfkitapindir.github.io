@@ -6,6 +6,7 @@ comments: false
 ---
 
 <p><strong>Gerçek Tıp PDF İndir</strong> bağlantısını kullanarak <strong>Dr. Aidin Salih</strong> tarafından hazırlanan <strong>Yitik Şifanın İzinde</strong> isimli eseri okuyabilirsiniz.</p>
+
 <br/>
 PDF Kitap İndir butonunu kullanarak indirme sayfasına gidebilirsiniz.
 {% include adg %}
