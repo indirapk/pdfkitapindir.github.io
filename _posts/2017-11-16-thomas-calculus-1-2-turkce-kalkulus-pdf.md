@@ -7,12 +7,15 @@ comments: false
 
 <p>Çoğu üniversite öğrencisinin görüp duyduğu <strong>Thomas' Calculus 1-2 (Türkçe Kalkülüs)</strong> kitapları ve <strong>çözümleri pdf indir</strong> seçeneği ile aşağıda yer almaktadır. <strong>Calculus (kalkulus)</strong> genellikle fen, mühendislik ve benzeri bölümlerde ilk sene okutulan bir matematik dersidir. </p>
 
+PDF Kitap İndir butonunu kullanarak indirme sayfasına gidebilirsiniz.
+
 {% include adg %}
 
 <center><img src="/images/thomas-calculus-kalkulus-pdf.jpg" alt="Thomas Calculus Kalkulus" /></center>
 
 {% include ad %}
-
+<br/><br/>
+ Kitap İndirme işlemi ile ilgili:<br/>
 **1. Cilt:**
 <ol>
 <li>Önbilgiler (Reel sayılar, Doğrular, Fonksiyonlar...)</li>
