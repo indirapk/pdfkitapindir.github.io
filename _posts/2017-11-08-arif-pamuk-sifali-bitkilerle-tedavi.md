@@ -9,7 +9,7 @@ comments: true
 <br/>
 PDF Kitap İndir butonunu kullanarak indirme sayfasına gidebilirsiniz.
 
-{% include adg %}
+{% include ad %}
 <p>
   Kitap İndirme işlemi ile ilgili:<br/>
   Kitap PDF türündedir. Dolayısıyla hem mobil hem de PC cihazlarda sorunsuz çalıştırabilirsiniz. Sadece bir PDF okuyucu yazılım sizin için yeterli olacaktır. Kitap hakkındaki yorumlarınızı yorum panelinden paylaşaiblirsiniz.</p>
