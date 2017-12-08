@@ -6,9 +6,11 @@ comments: false
 ---
 
 <p>Yazar adı <strong>Akilah Azra Kohen</strong> olan <strong>Fi PDF İndir</strong> kitabını okumak istiyorsanız aşağıdaki düğmeleri kullanabilirsiniz. <strong>Fi PDF</strong> kitaplar arasında en çok okunanlar listesinde genelde ilk sıradadır. Böylesine saçma bir kitabın bu kadar çok okunması da şaşırtmamıştır. Zaten okuyan kitle malum.</p>
+PDF Kitap İndir butonunu kullanarak indirme sayfasına gidebilirsiniz.
 
 {% include adg %}
 <p>
+   Kitap İndirme işlemi ile ilgili:<br/>
 E-Kitap sitemizde binlerce ücretsiz kitap bulabilirsiniz. Kitaplara ulaşmak için arşivimizi ziyaret edin. Arşiv konumuza gitmek için aşağıdaki butonu kullanabilirsiniz.
 </p>
 {% include ad %}
