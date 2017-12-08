@@ -6,6 +6,7 @@ comments: false
 ---
 
 <p><strong>PDF Kitap İndir</strong> konumuzda Yandex Disk ve Google Drive gibi sitelerdeki <strong>e-kitap arşivleri</strong> bulunmaktadır. Sitemizdeki kitapları bu arşivlerde bulabilirsiniz. Ayrıca mobil uygulamamızı indirerek telefon ve tabletten arşive daha kolay ulaşabilirsiniz. PDF ve e-kitapları indir işlemi yapmadan online okuyabileceğiniz gibi cihazınıza yükledikten sonra da okuyabilirsiniz.</p>
+
 PDF Kitap İndir butonunu kullanarak arşive (Yandex veya Google) gidebilirsiniz.
 {% include adg %}
 
