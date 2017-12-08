@@ -9,7 +9,7 @@ comments: false
 
 PDF Kitap İndir butonunu kullanarak indirme sayfasına gidebilirsiniz.
 
-{% include adg %}
+{% include ad %}
 <p>
   Kitap İndirme işlemi ile ilgili:<br/>
 Aradığınız kitap Türkçe dilindedir; Cemal Süreya isimli sapığın saçma sapan sözlerinden oluşmaktadır. Okuyan aptallara hiçbir şey katmadığı gibi iyice aptallaştırmıştır. Okumanızı tavsiye etmiyoruz.  
